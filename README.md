@@ -1,4 +1,4 @@
-# Bayesian Modeling of Slip Trace
+# Bayesian Modeling of Slip Traces
 
 This repository contains Bayesian Mixture models for inference on slip trace data using the probabilistic modeling package `Turing.jl`.
 
